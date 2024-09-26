@@ -6,4 +6,4 @@ We applied machine learning techniques to predict SOC based on spectroscopy data
 
 
 
-Features of the Project:
+# Features of the Project:
