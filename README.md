@@ -39,7 +39,7 @@ R-Squared (R²): Indicates how well the model explains the variability of SOC co
 Mean Absolute Error (MAE): Measures the average magnitude of the errors between predictions and actual values.
 
 
-Results:
+# Results:
 
 A comprehensive analysis was conducted using several regression models—Support Vector Regression (SVR), Polynomial Regression and Elastic Net—to predict Soil Organic Carbon (SOC) based on spectroscopy data. The performance of each model was evaluated using Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R-squared (R²) Score.
 
