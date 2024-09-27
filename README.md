@@ -32,7 +32,7 @@ Model Evaluation:
 
 The performance of the predictive models was assessed using the following metrics:
 
-Mean Squared Error (MSE): Measures the average squared difference between the predicted and actual SOC values.
+Root Mean Squared Error (RMSE): Measures the square root of the average squared difference between the predicted and actual SOC values.
 
 R-Squared (R²): Indicates how well the model explains the variability of SOC content.
 
